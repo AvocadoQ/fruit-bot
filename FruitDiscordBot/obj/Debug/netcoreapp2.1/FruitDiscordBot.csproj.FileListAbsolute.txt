@@ -1,0 +1,11 @@
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\FruitDiscordBot\FruitDiscordBot\bin\Debug\netcoreapp2.1\FruitDiscordBot.deps.json
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\FruitDiscordBot\FruitDiscordBot\bin\Debug\netcoreapp2.1\FruitDiscordBot.runtimeconfig.json
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\FruitDiscordBot\FruitDiscordBot\bin\Debug\netcoreapp2.1\FruitDiscordBot.runtimeconfig.dev.json
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\FruitDiscordBot\FruitDiscordBot\bin\Debug\netcoreapp2.1\FruitDiscordBot.dll
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\FruitDiscordBot\FruitDiscordBot\obj\Debug\netcoreapp2.1\FruitDiscordBot.csprojAssemblyReference.cache
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\FruitDiscordBot\FruitDiscordBot\obj\Debug\netcoreapp2.1\FruitDiscordBot.csproj.CoreCompileInputs.cache
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\FruitDiscordBot\FruitDiscordBot\obj\Debug\netcoreapp2.1\FruitDiscordBot.AssemblyInfoInputs.cache
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\FruitDiscordBot\FruitDiscordBot\obj\Debug\netcoreapp2.1\FruitDiscordBot.AssemblyInfo.cs
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\FruitDiscordBot\FruitDiscordBot\bin\Debug\netcoreapp2.1\FruitDiscordBot.pdb
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\FruitDiscordBot\FruitDiscordBot\obj\Debug\netcoreapp2.1\FruitDiscordBot.dll
+C:\Users\Karol\Documents\Visual Studio 2017\Projects\FruitDiscordBot\FruitDiscordBot\obj\Debug\netcoreapp2.1\FruitDiscordBot.pdb
